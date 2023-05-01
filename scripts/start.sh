@@ -4,5 +4,5 @@ cd /home
 pwd
 sudo su
 whoami
-npm run start &
+npm run start &&
 echo "--------------------------------------------test2-------------------------------------------"
