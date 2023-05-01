@@ -7,6 +7,4 @@ nvm install --lts
 sudo su
 npm install -y
 npm update -y
-npm run start
-pwd
-echo "-------------------------------------------test---------------------------------------------------------  "
+npm run start &
