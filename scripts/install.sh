@@ -7,3 +7,5 @@ nvm install --lts
 sudo su
 npm install -y
 npm update -y
+cd /home/scripts
+chmod +x start.sh
