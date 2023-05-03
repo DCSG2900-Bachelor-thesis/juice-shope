@@ -5,3 +5,4 @@ pwd
 sudo su
 whoami
 npm run start &
+echo "test"
