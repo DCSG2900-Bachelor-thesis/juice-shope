@@ -4,5 +4,5 @@ cd /home
 pwd
 sudo su
 whoami
-npm run start &
+npm run start > /dev/null 2> /dev/null < /dev/null &
 echo "test"
